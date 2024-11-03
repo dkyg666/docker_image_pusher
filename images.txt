@@ -4,6 +4,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #nyanmisaka/jellyfin:240401-amd64
-xhofe/alist:v3.37.4
+alpine:edge
+#xhofe/alist:v3.37.4
 
 
