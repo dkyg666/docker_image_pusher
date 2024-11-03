@@ -5,8 +5,9 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #nyanmisaka/jellyfin:240401-amd64
 #alpine:edge
-node:20-alpine
-node:22-alpine
+nginx:1.26.2-alpine
+nginx:1.26.2
+nginx:1.18.0
 #xhofe/alist:v3.37.4
 
 
