@@ -4,10 +4,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #alpine:edge
-#xhofe/alist:v3.37.4
-xhofe/alist:v3.37.4-ffmpeg
-xhofe/alist:v3.38.0-ffmpeg
-xhofe/alist:v3.39.1-ffmpeg
+#xhofe/alist:v3.39.1
+#xhofe/alist:v3.39.1-ffmpeg
 
 
 
