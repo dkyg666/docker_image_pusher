@@ -3,10 +3,11 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#nyanmisaka/jellyfin:240401-amd64
 #alpine:edge
-ossrs/srs:5
-outlovecn/portainer-cn:latest
 #xhofe/alist:v3.37.4
+xhofe/alist:v3.37.4-ffmpeg
+xhofe/alist:v3.38.0-ffmpeg
+xhofe/alist:v3.39.1-ffmpeg
+
 
 
