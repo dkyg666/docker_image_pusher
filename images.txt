@@ -6,6 +6,7 @@
 #alpine:edge
 #xhofe/alist:v3.39.1
 #xhofe/alist:v3.39.1-ffmpeg
+emby/embyserver:4.8.1.0
 
 
 
