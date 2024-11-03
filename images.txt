@@ -1,8 +1,9 @@
-nginx:1.18.0-alpine
+#nginx:1.18.0-alpine
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #xhofe/alist:v3.38.0
+nyanmisaka/jellyfin:240401-amd64
 
 
