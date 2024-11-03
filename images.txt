@@ -9,8 +9,7 @@
 #alpine:edge
 #xhofe/alist:v3.39.1
 #xhofe/alist:v3.39.1-ffmpeg
-hitokoto/api:release
-redis
+
 
 
 
