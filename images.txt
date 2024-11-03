@@ -9,8 +9,7 @@
 #alpine:edge
 #xhofe/alist:v3.39.1
 #xhofe/alist:v3.39.1-ffmpeg
-1995chen/dnf:centos5-2.1.4.fix1
-1995chen/dnf:centos6-2.1.4.fix1
+
 
 
 
