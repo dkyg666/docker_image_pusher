@@ -4,5 +4,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #xhofe/alist:v3.38.0
-aircross/3x-ui:v2.4.1
+
 
