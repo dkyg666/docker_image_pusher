@@ -5,9 +5,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #nyanmisaka/jellyfin:240401-amd64
 #alpine:edge
-ubuntu:22.04
-ubuntu:20.04
-centos:centos7
+1995chen/dnf:centos7-2.1.4.fix1
 #xhofe/alist:v3.37.4
 
 
