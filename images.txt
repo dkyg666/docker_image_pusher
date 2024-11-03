@@ -7,25 +7,12 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #alpine:edge
+#enwaiax/x-ui
+#enwaiax/x-ui:alpha-zh
+#ghcr.io/mhsanaei/3x-ui:v2.4.6
 #xhofe/alist:v3.39.1
 #xhofe/alist:v3.39.1-ffmpeg
-enwaiax/x-ui
-enwaiax/x-ui:alpha-zh
-ghcr.io/mhsanaei/3x-ui:v2.4.6
-ghcr.io/mhsanaei/3x-ui:v2.4.5
-ghcr.io/mhsanaei/3x-ui:v2.4.4
-ghcr.io/mhsanaei/3x-ui:v2.4.3
-ghcr.io/mhsanaei/3x-ui:v2.4.2
-ghcr.io/mhsanaei/3x-ui:v2.4.1
-ghcr.io/mhsanaei/3x-ui:v2.4.0
-ghcr.io/mhsanaei/3x-ui:v2.3.15
-ghcr.io/mhsanaei/3x-ui:v2.3.14
-ghcr.io/mhsanaei/3x-ui:v2.3.13
-ghcr.io/mhsanaei/3x-ui:v2.3.12
-ghcr.io/mhsanaei/3x-ui:v2.3.11
-ghcr.io/mhsanaei/3x-ui:v2.3.10
-ghcr.io/mhsanaei/3x-ui:v2.3.9
-ghcr.io/mhsanaei/3x-ui:v2.3.8
+
 
 
 
