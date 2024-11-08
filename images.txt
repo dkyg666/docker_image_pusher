@@ -2,6 +2,8 @@
 #thsrite/medialinker:latest
 #itefuir/alist-strm:latest
 #nginx:1.18.0-alpine
+gcr.io/distroless/base-debian10
+gcr.io/distroless/base-debian11
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
