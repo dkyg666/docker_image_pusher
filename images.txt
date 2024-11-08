@@ -2,8 +2,6 @@
 #thsrite/medialinker:latest
 #itefuir/alist-strm:latest
 #nginx:1.18.0-alpine
-gcr.io/distroless/base-debian10
-gcr.io/distroless/base-debian11
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
@@ -14,6 +12,10 @@ gcr.io/distroless/base-debian11
 #ghcr.io/mhsanaei/3x-ui:v2.4.6
 #xhofe/alist:v3.39.1
 #xhofe/alist:v3.39.1-ffmpeg
+debian:10.13-slim
+debian:10.13
+debian:11.11-slim
+debian:11.11
 
 
 
