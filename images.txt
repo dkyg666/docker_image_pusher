@@ -12,10 +12,7 @@
 #ghcr.io/mhsanaei/3x-ui:v2.4.6
 #xhofe/alist:v3.39.1
 #xhofe/alist:v3.39.1-ffmpeg
-debian:10.13-slim
-debian:10.13
-debian:11.11-slim
-debian:11.11
+golang:1.21
 
 
 
