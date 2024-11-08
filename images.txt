@@ -12,9 +12,20 @@
 #ghcr.io/mhsanaei/3x-ui:v2.4.6
 #xhofe/alist:v3.39.1
 #xhofe/alist:v3.39.1-ffmpeg
-node:20
-node:22
-node:lts-alpine3.20
+ollama/ollama:0.3.0
+ollama/ollama:0.3.1
+ollama/ollama:0.3.2
+ollama/ollama:0.3.3
+ollama/ollama:0.3.4
+ollama/ollama:0.3.5
+ollama/ollama:0.3.6
+ollama/ollama:0.3.7
+ollama/ollama:0.3.8
+ollama/ollama:0.3.9
+ollama/ollama:0.3.10
+ollama/ollama:0.3.11
+ollama/ollama:0.3.12
+ollama/ollama:0.3.13
 
 
 
