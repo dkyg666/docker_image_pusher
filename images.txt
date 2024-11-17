@@ -5,8 +5,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #ghcr.io/mhsanaei/3x-ui:v2.4.6
-#xhofe/alist:v3.39.1
-#xhofe/alist:v3.39.1-ffmpeg
+xhofe/alist:v3.39.2
+xhofe/alist:v3.39.2-ffmpeg
 
 
 
