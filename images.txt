@@ -4,7 +4,7 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-ghcr.io/mhsanaei/3x-ui:v2.4.9
+ghcr.io/mhsanaei/3x-ui:v2.4.10
 #xhofe/alist:v3.41.0
 #xhofe/alist:v3.41.0-ffmpeg
 
