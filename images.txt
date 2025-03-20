@@ -8,8 +8,10 @@
 #ghcr.io/mhsanaei/3x-ui:v2.5.2
 #ghcr.io/mhsanaei/3x-ui:v2.5.3
 #ghcr.io/mhsanaei/3x-ui:v2.5.4
-xhofe/alist:v3.43.0
-xhofe/alist:v3.43.0-ffmpeg
+ghcr.io/mhsanaei/3x-ui:v2.5.5
+ghcr.io/mhsanaei/3x-ui:v2.5.6
+#xhofe/alist:v3.43.0
+#xhofe/alist:v3.43.0-ffmpeg
 
 
 
