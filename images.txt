@@ -10,7 +10,7 @@
 #centralx/clash:1.18.0
 #dreamacro/clash:v1.18.0
 #haishanh/yacd:latest
-squidfunk/mkdocs-material:9.6.11
+honkit/honkit:v6.0.2
 
 
 
