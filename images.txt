@@ -10,7 +10,8 @@
 #centralx/clash:1.18.0
 #dreamacro/clash:v1.18.0
 #haishanh/yacd:latest
-honkit/honkit:v6.0.2
+#honkit/honkit:v6.0.2
+linuxserver/wireguard:1.0.20210914
 
 
 
