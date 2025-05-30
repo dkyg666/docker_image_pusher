@@ -4,10 +4,13 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-xhofe/alist:v3.45.0
-xhofe/alist:v3.45.0-aio
-xhofe/alist:v3.45.0-aria2
-ghcr.io/mhsanaei/3x-ui:v2.6.0
+#xhofe/alist:v3.45.0
+#xhofe/alist:v3.45.0-aio
+#xhofe/alist:v3.45.0-aria2
+#ghcr.io/mhsanaei/3x-ui:v2.6.0
+immortalwrt/imagebuilder:x86-64-openwrt-24.10.1
+immortalwrt/imagebuilder:x86-64-openwrt-21.02.7
+immortalwrt/imagebuilder:x86-64-openwrt-18.06
 
 
 
