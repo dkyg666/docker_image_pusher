@@ -4,14 +4,12 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#ghcr.io/mhsanaei/3x-ui:v2.5.7
-#xhofe/alist:v3.44.0
-#xhofe/alist:v3.44.0-ffmpeg
-#centralx/clash:1.18.0
-#dreamacro/clash:v1.18.0
-#haishanh/yacd:latest
-#honkit/honkit:v6.0.2
-linuxserver/wireguard:1.0.20210914
+xhofe/alist:v3.45.0
+xhofe/alist:v3.45.0-aio
+xhofe/alist:v3.45.0-aria2
+ghcr.io/mhsanaei/3x-ui:v2.6.0
+
+
 
 
 
