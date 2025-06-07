@@ -8,7 +8,9 @@
 #xhofe/alist:v3.45.0-aio
 #xhofe/alist:v3.45.0-aria2
 #ghcr.io/mhsanaei/3x-ui:v2.6.0
-billryan/gitbook:zh-hans
+#billryan/gitbook:zh-hans
+soulteary/stable-diffusion:taiyi-0.1
+
 
 
 
