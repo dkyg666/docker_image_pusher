@@ -10,7 +10,6 @@ env:
   GHCR_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
 jobs:
-
   build:
     name: Pull
     runs-on: ubuntu-latest
