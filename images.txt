@@ -9,7 +9,8 @@
 #xhofe/alist:v3.45.0-aria2
 #ghcr.io/mhsanaei/3x-ui:v2.6.0
 #billryan/gitbook:zh-hans
-xhofe/alist:v3.45.0-ffmpeg
+#xhofe/alist:v3.45.0-ffmpeg
+ghcr.io/mhsanaei/3x-ui:v2.5.8
 
 
 
