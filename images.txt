@@ -10,7 +10,7 @@
 #ghcr.io/mhsanaei/3x-ui:v2.6.0
 #billryan/gitbook:zh-hans
 #xhofe/alist:v3.45.0-ffmpeg
-zhaojun1998/zfile:4.3.1
+immortalwrt/imagebuilder:x86-64-openwrt-24.10.2
 
 
 
