@@ -11,10 +11,7 @@
 #billryan/gitbook:zh-hans
 #xhofe/alist:v3.45.0-ffmpeg
 #immortalwrt/imagebuilder:x86-64-openwrt-24.10.2
-immortalwrt/sdk:x86-64-openwrt-21.02.7
-immortalwrt/sdk:x86-64-openwrt-24.10.1
-immortalwrt/sdk:x86-64-openwrt-24.10.2
-
+ghcr.io/mhsanaei/3x-ui:v2.6.2
 
 
 
