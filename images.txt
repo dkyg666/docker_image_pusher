@@ -10,8 +10,9 @@
 #ghcr.io/mhsanaei/3x-ui:v2.6.0
 #billryan/gitbook:zh-hans
 #xhofe/alist:v3.45.0-ffmpeg
-#immortalwrt/imagebuilder:x86-64-openwrt-24.10.2
-ghcr.io/openlistteam/openlist-git:v4.1.6
+immortalwrt/imagebuilder:x86-64-openwrt-24.10.3
+immortalwrt/imagebuilder:x86-64-openwrt-24.10.4
+ghcr.io/openlistteam/openlist-git:v4.1.5
 
 
 
