@@ -10,7 +10,13 @@
 #ghcr.io/mhsanaei/3x-ui:v2.6.0
 #billryan/gitbook:zh-hans
 #xhofe/alist:v3.45.0-ffmpeg
-ghcr.io/openlistteam/openlist-git:v4.1.6
+#ghcr.io/openlistteam/openlist-git:v4.1.6
+ai/deepseek-r1-distill-llama:8B-Q4_K_M
+ai/deepseek-r1-distill-llama:8B-F16
+ai/deepseek-r1-distill-llama:70B-Q4_K_M
+ai/deepseek-r1-distill-llama:latest
+ai/deepseek-r1-distill-llama:8B-Q4_0
+ai/deepseek-r1-distill-llama:70B-Q4_0
 
 
 
