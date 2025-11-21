@@ -11,7 +11,7 @@
 #billryan/gitbook:zh-hans
 #xhofe/alist:v3.45.0-ffmpeg
 #ghcr.io/openlistteam/openlist-git:v4.1.7
-ai/deepseek-r1-distill-llama:8B-Q4_K_M
+ghcr.io/openlistteam/openlist_api_server:latest
 
 
 
