@@ -11,7 +11,7 @@
 #billryan/gitbook:zh-hans
 #xhofe/alist:v3.45.0-ffmpeg
 #ghcr.io/openlistteam/openlist-git:v4.1.7
-ghcr.io/openlistteam/openlist_api_server:latest
+registry.cn-hangzhou.aliyuncs.com/eci_open/vllm-openai:v0.7.2
 
 
 
