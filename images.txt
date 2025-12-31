@@ -11,7 +11,7 @@
 #billryan/gitbook:zh-hans
 #xhofe/alist:v3.45.0-ffmpeg
 #ghcr.io/openlistteam/openlist-git:v4.1.7
-1995chen/dnf:centos7-2.1.11
+ghcr.io/openlistteam/openlist-git:beta
 
 
 
