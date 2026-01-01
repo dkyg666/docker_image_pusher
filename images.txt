@@ -12,7 +12,7 @@
 #xhofe/alist:v3.45.0-ffmpeg
 #ghcr.io/openlistteam/openlist-git:v4.1.7
 ghcr.io/openlistteam/openlist-git:beta
-
+ghcr.io/openlistteam/openlist-git:v4.1.9
 
 
 
