@@ -11,7 +11,7 @@
 #billryan/gitbook:zh-hans
 #xhofe/alist:v3.45.0-ffmpeg
 #ghcr.io/openlistteam/openlist-git:v4.1.7
-ghcr.io/mhsanaei/3x-ui:v2.8.6
+ghcr.io/mhsanaei/3x-ui:v2.8.7
 
 
 
