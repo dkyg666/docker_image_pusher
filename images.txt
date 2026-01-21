@@ -11,7 +11,11 @@
 #billryan/gitbook:zh-hans
 #xhofe/alist:v3.45.0-ffmpeg
 #ghcr.io/openlistteam/openlist-git:v4.1.7
-ghcr.io/mhsanaei/3x-ui:v2.8.7
+ghcr.io/mhsanaei/3x-ui:v2.8.8
+makedie/proxmox_ve:8.3.2
+makedie/proxmox_ve:9.0.10
+makedie/proxmox_ve:8.4.9
+makedie/proxmox_ve:pxvirt-8.4.10-amd64
 
 
 
